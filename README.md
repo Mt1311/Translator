@@ -12,3 +12,19 @@ Communication gaps are quite prevalent in our country because of the linguistic 
 - The text is translated to the required language.
 
 - The translated text is converted back to facilitate an audio output.
+<br>
+
+## Installation and Usage Guidelines
+To use the repo for speech to speech translation follow the guidelines given below-
+
+- Cloning the Repository: 
+
+        git clone https://github.com/Mt1311/Translator
+        
+- Setting up the Python Environment with dependencies:
+
+        pip install -r requirements.txt
+
+- Running the file for inference:
+
+        python3 inference.py
