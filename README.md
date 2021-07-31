@@ -14,6 +14,9 @@ Communication gaps are quite prevalent in our country because of the linguistic 
 - The translated text is converted back to facilitate an audio output.
 <br>
 
+## Languages and their codes supported by TextBlob
+<img src = 'results/language_codes.png'>
+
 ## Installation and Usage Guidelines
 To use the repo for speech to speech translation follow the guidelines given below-
 
