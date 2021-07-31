@@ -28,3 +28,7 @@ To use the repo for speech to speech translation follow the guidelines given bel
 - Running the file for inference:
 
         python3 inference.py
+ <br>
+ 
+ ## Results
+ Samples of translated audio files can be found in the directory named <a href='results/'>results</a>
